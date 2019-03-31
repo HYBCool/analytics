@@ -1,2 +1,2 @@
-# sparkml
+# analytics
 spark machine learning demo
